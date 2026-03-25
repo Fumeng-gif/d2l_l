@@ -1,0 +1,11 @@
+NumRooms,Alley,HouseStyle,YearBuilt,GarageCars,Price
+3.0,Pave,1Story,2000.0,2.0,300000
+2.0,,1Story,1995.0,1.0,180000
+,Grvl,1Story,1980.0,2.0,250000
+4.0,Pave,1Story,,,320000
+,,1Story,2010.0,3.0,400000
+5.0,Pave,1Story,2005.0,2.0,280000
+3.0,,1Story,,1.0,350000
+,Grvl,1Story,1970.0,2.0,220000
+4.0,Pave,,1998.0,,310000
+2.0,,1Story,2008.0,1.0,260000
